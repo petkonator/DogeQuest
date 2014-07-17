@@ -17,7 +17,7 @@ public class DogeQuest extends ApplicationAdapter {
 		
 		System.out.println("hovno");
 		
-		System.out.println("hovno7");
+		System.out.println("hovno8");
 	}
 
 	@Override
