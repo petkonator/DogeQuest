@@ -16,6 +16,8 @@ public class DogeQuest extends ApplicationAdapter {
 		img = new Texture("badlogic.jpg");
 		
 		System.out.println("hovno");
+		
+		System.out.println("hovno2");
 	}
 
 	@Override
